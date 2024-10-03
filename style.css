@@ -1,0 +1,59 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #5609c9;
+  }
+
+  input[type="text"] {
+    width: 500px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #5609c9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  .mensaje {
+    margin-bottom: 10px;
+    margin-left: 250px;
+    font-size: 16px;
+    padding: 2%;
+    
+  }
+  #results {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .movie {
+    min-height: 150px;
+    margin-bottom: 10px;
+    padding: 2%;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .movie img {    
+    width: 105px;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .movie h2 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  
+  .movie p {
+    margin: 5px 0;
+  }
+  
